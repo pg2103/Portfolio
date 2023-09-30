@@ -1,0 +1,42 @@
+h1{
+    width:100%;
+}
+
+.contact{
+    width: 100%;
+}
+.one{
+    display: inline-flex;
+    width:100%
+}
+.projects{
+    width:50%;
+}
+.skills{
+    width:50%;
+}
+.secnd{
+    display: inline-flex;
+    width:100%
+}
+.languages{
+    width:50%;
+}
+.education{
+    width:50%;
+}
+.main{
+    padding:20px;
+    border: 5px solid black;
+    width:800px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+fieldset{
+    height: 100%;
+}
+div{
+    margin: 10px;
+}
