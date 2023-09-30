@@ -1,2 +1,2 @@
 
-![Alt #How does my portfolio look today:](myResume.png)
+![Alt #How does my portfolio look today:](traditional-resume-template.png)
